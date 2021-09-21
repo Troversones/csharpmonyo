@@ -1,0 +1,10 @@
+C:\Users\d_kisben\source\repos\09.15\09.15\bin\Debug\09.15.exe.config
+C:\Users\d_kisben\source\repos\09.15\09.15\bin\Debug\09.15.exe
+C:\Users\d_kisben\source\repos\09.15\09.15\bin\Debug\09.15.pdb
+C:\Users\d_kisben\source\repos\09.15\09.15\obj\Debug\09.15.csprojAssemblyReference.cache
+C:\Users\d_kisben\source\repos\09.15\09.15\obj\Debug\_09._15.Form1.resources
+C:\Users\d_kisben\source\repos\09.15\09.15\obj\Debug\_09._15.Properties.Resources.resources
+C:\Users\d_kisben\source\repos\09.15\09.15\obj\Debug\09.15.csproj.GenerateResource.cache
+C:\Users\d_kisben\source\repos\09.15\09.15\obj\Debug\09.15.csproj.CoreCompileInputs.cache
+C:\Users\d_kisben\source\repos\09.15\09.15\obj\Debug\09.15.exe
+C:\Users\d_kisben\source\repos\09.15\09.15\obj\Debug\09.15.pdb

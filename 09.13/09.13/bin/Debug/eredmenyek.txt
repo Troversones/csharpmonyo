@@ -1,0 +1,8 @@
+Pontszám: 3
+Név: XD
+Jegy: 5
+Dátum: 2021. 09. 13. 12:58:42
+Pontszám: 0
+Név: CIG
+Jegy: 1
+Dátum: 2021. 09. 13. 12:59:01
