@@ -1,0 +1,12 @@
+Z:\13.c\c#\19.21\19.21\bin\Debug\19.21.exe.config
+Z:\13.c\c#\19.21\19.21\bin\Debug\19.21.exe
+Z:\13.c\c#\19.21\19.21\bin\Debug\19.21.pdb
+Z:\13.c\c#\19.21\19.21\obj\Debug\19.21.csprojAssemblyReference.cache
+Z:\13.c\c#\19.21\19.21\obj\Debug\_19._21.Form1.resources
+Z:\13.c\c#\19.21\19.21\obj\Debug\_19._21.Properties.Resources.resources
+Z:\13.c\c#\19.21\19.21\obj\Debug\19.21.csproj.GenerateResource.cache
+Z:\13.c\c#\19.21\19.21\obj\Debug\19.21.csproj.CoreCompileInputs.cache
+Z:\13.c\c#\19.21\19.21\obj\Debug\19.21.exe
+Z:\13.c\c#\19.21\19.21\obj\Debug\19.21.pdb
+Z:\13.c\c#\19.21\19.21\obj\Debug\_19._21.Form2.resources
+Z:\13.c\c#\19.21\19.21\obj\Debug\_19._21.Form3.resources
