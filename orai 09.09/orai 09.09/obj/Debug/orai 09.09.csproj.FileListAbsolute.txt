@@ -1,0 +1,10 @@
+C:\Users\d_kisben\source\repos\orai 09.09\orai 09.09\bin\Debug\orai 09.09.exe.config
+C:\Users\d_kisben\source\repos\orai 09.09\orai 09.09\bin\Debug\orai 09.09.exe
+C:\Users\d_kisben\source\repos\orai 09.09\orai 09.09\bin\Debug\orai 09.09.pdb
+C:\Users\d_kisben\source\repos\orai 09.09\orai 09.09\obj\Debug\orai 09.09.csprojAssemblyReference.cache
+C:\Users\d_kisben\source\repos\orai 09.09\orai 09.09\obj\Debug\orai_09._09.Form1.resources
+C:\Users\d_kisben\source\repos\orai 09.09\orai 09.09\obj\Debug\orai_09._09.Properties.Resources.resources
+C:\Users\d_kisben\source\repos\orai 09.09\orai 09.09\obj\Debug\orai 09.09.csproj.GenerateResource.cache
+C:\Users\d_kisben\source\repos\orai 09.09\orai 09.09\obj\Debug\orai 09.09.csproj.CoreCompileInputs.cache
+C:\Users\d_kisben\source\repos\orai 09.09\orai 09.09\obj\Debug\orai 09.09.exe
+C:\Users\d_kisben\source\repos\orai 09.09\orai 09.09\obj\Debug\orai 09.09.pdb
