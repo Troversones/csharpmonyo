@@ -1,0 +1,10 @@
+Márka;Évjárat;Üzemanyag;Ár;Készleten lévő;
+Audi;2007;benzin;2 000 000 Ft;16;
+Mercedes;2004;benzin;3 500 000 Ft;13;
+Ferrari;2016;benzin;4 500 000 Ft;17;
+Lit;2021;dízel;1 250 000 Ft;11;
+Volvo;2012;dízel;4 250 000 Ft;31;
+asd;2004;benzin;2 000 000 Ft;21;
+asd;2004;benzin;2 000 000 Ft;21;
+ASD;2004;dízel;3 000 000 Ft;45;
+ASD;2004;dízel;4 000 000 Ft;45;

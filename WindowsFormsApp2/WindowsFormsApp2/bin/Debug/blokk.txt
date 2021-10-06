@@ -1,0 +1,26 @@
+----- Termékleírás -----
+Márka: Ferrari
+Ár: 4 500 000 Ft
+Évjárat: 2016
+Üzemanyag: benzin
+----- Személyes adatok -----
+Számlaszám: 1234 5341 2345 2453
+Lejárati Dátum: 06/24
+Postai Kód: 6775
+Tulajdonos neve: Kis Bence
+Lakcím: Petőfi u. 21
+Vásárlás pontos dátuma: 2021. 10. 06. 11:45:56
+-------------------------------------
+----- Termékleírás -----
+Márka: Ferrari
+Ár: 4 500 000 Ft
+Évjárat: 2016
+Üzemanyag: benzin
+----- Személyes adatok -----
+Számlaszám: 1234 1234 1234 1234
+Lejárati Dátum: 06/24
+Postai Kód: 6775
+Tulajdonos neve: Kis Bence
+Lakcím: Petőfi u.21
+Vásárlás pontos dátuma: 2021. 10. 06. 11:54:03
+-------------------------------------
