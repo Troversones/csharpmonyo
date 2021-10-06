@@ -50,6 +50,10 @@ namespace WindowsFormsApp2
             {
                 MessageBox.Show("Kérlek töltsd ki az üres mezőket!");
             }
+            else if (textBox2.Text.Contains("/") == false)
+            {
+                MessageBox.Show("Használj / jelet a lejárati dátum mezőnél!");
+            }
             else
             {
                 string file = File.ReadAllText("blokk.txt");
